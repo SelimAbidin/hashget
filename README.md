@@ -14,8 +14,10 @@ yarn add hashget
 ```
 
 ```js
-
+ import {HashGet} from 'hashget'
  window.location.hash = "#empty&test=100"
+
+ var locHash = new HashGet();
 
  var count = locHash.getCount()
  console.log(count) // 2
