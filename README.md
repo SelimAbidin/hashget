@@ -3,12 +3,12 @@ window.location.hash parser and make life easier
 
 ## Installation
 
-1. **Install via npm:**
+**Install via npm**
 
 ```bash
 npm install hashget
 ```
-
+**Install via yarn**
 ```bash
 yarn add hashget
 ```
