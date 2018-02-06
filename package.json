@@ -1,6 +1,6 @@
 {
   "name": "hashget",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "window.location.hash parser and make life easier",
   "main": "index.js",
   "author": "Selim Abidin (ysabidin@gmail.com)",
