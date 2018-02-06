@@ -1,0 +1,34 @@
+{
+  "name": "hashget",
+  "version": "0.0.2",
+  "description": "window.location.hash parser and make life easier",
+  "main": "index.js",
+  "author": "Selim Abidin (ysabidin@gmail.com)",
+  "license": "MIT",
+  "scripts": {
+    "test": "karma start karma.conf.js",
+    "test:all": "karma start allbrowsers.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SelimAbidin/hashget.git"
+  },
+  "keywords": [
+    "hash",
+    "location",
+    "location.hash",
+    "get"
+  ],
+  "devDependencies": {
+    "jasmine": "^2.9.0",
+    "karma": "^2.0.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-firefox-launcher": "^1.1.0",
+    "karma-ie-launcher": "^1.0.0",
+    "karma-jasmine": "^1.1.1",
+    "karma-opera-launcher": "^1.0.0",
+    "karma-requirejs": "^1.1.0",
+    "karma-safari-launcher": "^1.0.0",
+    "requirejs": "^2.3.5"
+  }
+}
